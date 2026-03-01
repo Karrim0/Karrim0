@@ -1,16 +1,27 @@
-## Hi there 👋
+# Kareem Hanfy 👋
 
-<!--
-**Karrim0/Karrim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on building scalable, production-ready web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+- REST APIs
+- PHP / MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Engineering Services Platform (Full-stack + Admin Dashboard)
+- Personal Portfolio (Next.js)
+- Interactive Web Applications
+
+## 🧠 Currently Improving
+- Advanced React Patterns
+- Performance Optimization
+- Clean Architecture
+
+## 🌍 Portfolio
+https://kaghim.vercel.app/
+
+---
+
+Building scalable web products with clean, maintainable code.
