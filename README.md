@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kareem Mohamed Hanafy 👋
 
-<!--
-**Karrim0/Karrim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on building modern, responsive, and user-friendly web applications using React.js, Next.js, TypeScript, and Tailwind CSS.
 
-Here are some ideas to get you started:
+I enjoy turning clean UI designs into fast, scalable, and maintainable interfaces, with strong attention to responsive design, API integration, and smooth user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- REST APIs
+- React Query
+- Axios
+- Git & GitHub
+- Figma to Responsive UI
+
+## 💼 What I Do
+
+- Build responsive landing pages and websites
+- Convert Figma designs into clean frontend interfaces
+- Integrate REST APIs with frontend applications
+- Develop modern dashboards and e-commerce interfaces
+- Create multilingual and dynamic web experiences
+
+## 📌 Featured Projects
+
+### Portfolio
+Personal portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and EmailJS.
+
+### Kidorly
+A modern e-commerce platform for kids products with responsive UI and clean shopping experience.
+
+### Menoufia University Expatriates Portal
+A multilingual university portal with dynamic news, faculties, sectors, search, themes, and API integration.
+
+## 📫 Contact
+
+- Email: karimhnfy1@gmail.com
+- Portfolio: https://kaghim.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/karim74
