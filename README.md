@@ -27,14 +27,11 @@ I enjoy turning clean UI designs into fast, scalable, and maintainable interface
 
 ## 📌 Featured Projects
 
-### Portfolio
-Personal portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion, and EmailJS.
 
 ### Kidorly
 A modern e-commerce platform for kids products with responsive UI and clean shopping experience.
 
-### Menoufia University Expatriates Portal
-A multilingual university portal with dynamic news, faculties, sectors, search, themes, and API integration.
+
 
 ## 📫 Contact
 
