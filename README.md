@@ -172,19 +172,16 @@ Marketing and media website with service pages, events, gallery, videos, clients
 </p>
 
 ---
-
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karrim0&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karrim0&theme=github-dark-blue&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karrim0&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrim0&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karrim0&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karrim0&theme=github_dark" />
 </p>
-
----
 
 ## Current Focus
 
@@ -200,7 +197,7 @@ Marketing and media website with service pages, events, gallery, videos, clients
 
 <p>
   <a href="mailto:karimhnfy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kaghim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-karimhnfy1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kaghim.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-kaghim.vercel.app-000000?style=for-the-badge&logo=vercel" />
