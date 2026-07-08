@@ -199,7 +199,7 @@ Marketing and media website with service pages, events, gallery, videos, clients
 ## Contact
 
 <p>
-  <a href="mailto:kaghim@gmail.com">
+  <a href="mailto:karimhnfy1@gmail.com">
     <img src="https://img.shields.io/badge/Email-kaghim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kaghim.vercel.app/" target="_blank">
