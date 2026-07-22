@@ -1,173 +1,283 @@
-<h1 align="center">Kareem Mohamed Hanafy</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer building modern, scalable, and production-ready web applications
-</h3>
+# Hey, I'm Kareem 👋
 
-<p align="center">
-  React • Next.js • TypeScript • Node.js • PostgreSQL
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+real-world+digital+products;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Clean+code.+Thoughtful+UX.+Reliable+systems."
+alt="Typing introduction"
+/>
+
+<p>
+  I turn product ideas into modern, scalable, and production-ready applications.
 </p>
 
-<p align="center">
+<p>
   <a href="https://kaghim.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Explore_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/karim74">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:karimhnfy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-## About
-
-I'm a Full-Stack Developer focused on transforming ideas and business requirements into reliable, user-friendly digital products.
-
-I build complete web applications from responsive interfaces and multilingual experiences to backend APIs, databases, authentication systems, admin dashboards, and deployment.
-
-My experience includes e-commerce platforms, SaaS-style dashboards, university portals, business websites, content management systems, and custom product workflows.
+</div>
 
 ---
 
-## Core Expertise
+## Building Products, Not Just Pages
 
-* Full-stack application development with React and Next.js
-* Backend APIs, authentication, and database integration
-* E-commerce storefronts, checkout flows, orders, and admin systems
-* Multilingual applications with RTL and LTR support
-* Responsive, accessible, and reusable interface systems
-* PostgreSQL database design with Prisma and Supabase
-* Production deployment, performance optimization, and debugging
+I'm a **Full-Stack Developer** focused on building complete digital products—from polished user interfaces to backend services, databases, authentication, admin systems, and deployment.
+
+I enjoy working on products where design, engineering, and real business requirements come together.
+
+```ts
+const kareem = {
+  role: "Full-Stack Developer",
+
+  builds: [
+    "E-Commerce Platforms",
+    "SaaS Dashboards",
+    "Mobile-First Applications",
+    "Multilingual Web Experiences",
+    "Business Management Systems",
+  ],
+
+  principles: [
+    "Clear user experience",
+    "Maintainable architecture",
+    "Reliable integrations",
+    "Production-ready delivery",
+  ],
+
+  currentlyExploring: [
+    "Advanced Node.js",
+    "Offline-First Systems",
+    "System Design",
+  ],
+};
+```
 
 ---
 
-## Technology Stack
+## The Stack Behind My Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,postgres,prisma,supabase,tailwind,css,git,docker,figma,vercel&perline=7" alt="Technology Stack" />
-</p>
+<div align="center">
+
+### Core
+
+<img
+src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,postgres,prisma,supabase,tailwind&perline=9"
+alt="Core technology stack"
+/>
+
+### Also Working With
+
+<img
+src="https://skillicons.dev/icons?i=php,mysql,vite,docker,git,github,figma,postman,vercel&perline=9"
+alt="Additional tools and technologies"
+/>
+
+</div>
+
+<br />
 
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, Next.js, TypeScript, JavaScript, Vite</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Next.js APIs, REST APIs, PHP</td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>PostgreSQL, Prisma, Supabase, Neon, MySQL</td>
-  </tr>
-  <tr>
-    <td><strong>UI & Styling</strong></td>
-    <td>Tailwind CSS, shadcn/ui, Radix UI, Framer Motion</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, Docker, Postman, Figma, Vercel, Cloudinary</td>
+    <td width="50%" valign="top">
+      <h3>Frontend Engineering</h3>
+      <p>
+        Responsive interfaces, reusable component systems, dashboard experiences,
+        multilingual applications, RTL/LTR support, animations, loading states,
+        and accessible product flows.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Backend Engineering</h3>
+      <p>
+        REST APIs, authentication, authorization, database design, business logic,
+        media handling, third-party integrations, and administration systems.
+      </p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## Selected Work
+## Selected Builds
 
-### Kidorly
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kidorly</h3>
+      <p><strong>Full-Stack Multilingual E-Commerce Platform</strong></p>
+      <p>
+        A complete commerce experience with Arabic and English storefronts,
+        checkout, local payments, shipping rules, WhatsApp orders, discounts,
+        media management, and a full admin dashboard.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Prisma</code>
+        <code>PostgreSQL</code>
+        <code>next-intl</code>
+      </p>
+      <a href="https://kidorly.vercel.app/ar">
+        <img src="https://img.shields.io/badge/Open_Live_Product-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Kidorly" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Menoufia University Portal</h3>
+      <p><strong>Dynamic Multilingual University Experience</strong></p>
+      <p>
+        A large institutional platform covering news, faculties, departments,
+        sectors, administrations, special units, global search, themes,
+        responsive layouts, and RTL/LTR support.
+      </p>
+      <p>
+        <code>React</code>
+        <code>Vite</code>
+        <code>REST APIs</code>
+        <code>i18next</code>
+        <code>Axios</code>
+      </p>
+      <a href="https://menoufia-university.vercel.app/">
+        <img src="https://img.shields.io/badge/Open_Live_Product-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Open University Portal" />
+      </a>
+    </td>
+  </tr>
 
-**Full-Stack Multilingual E-Commerce Platform**
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fourmap</h3>
+      <p><strong>Arabic Business Platform & CMS</strong></p>
+      <p>
+        A business website for a Saudi client with services, articles,
+        consultation requests, SEO controls, image management, email handling,
+        and a custom content administration dashboard.
+      </p>
+      <p>
+        <code>PHP</code>
+        <code>MySQL</code>
+        <code>PDO</code>
+        <code>JavaScript</code>
+        <code>Bootstrap</code>
+      </p>
+      <a href="https://kaghim.wuaze.com">
+        <img src="https://img.shields.io/badge/Open_Live_Product-238636?style=for-the-badge" alt="Open Fourmap" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gym Crew</h3>
+      <p><strong>Workout Tracking Product</strong></p>
+      <p>
+        A mobile-first fitness product built around workout logging,
+        personal splits, group training, progress tracking, gym-mode UX,
+        offline-first workflows, and Supabase-powered data.
+      </p>
+      <p>
+        <code>Next.js</code>
+        <code>React Native</code>
+        <code>Expo</code>
+        <code>Supabase</code>
+        <code>TypeScript</code>
+      </p>
+      <a href="https://gym-crew.vercel.app/">
+        <img src="https://img.shields.io/badge/Open_Live_Product-238636?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Gym Crew" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-A complete e-commerce product for kids' items with Arabic and English storefronts, checkout flows, local payment options, shipping configuration, WhatsApp ordering, media management, and a comprehensive administration system.
+<p align="center">
+  <a href="https://kaghim.vercel.app/">
+    <strong>Explore more projects and detailed case studies →</strong>
+  </a>
+</p>
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `next-intl`
+---
 
-<a href="https://kidorly.vercel.app/ar">
-  <img src="https://img.shields.io/badge/View%20Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Kidorly Live Project" />
-</a>
+## How I Approach Engineering
 
-<br />
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>01</h3>
+      <strong>Understand</strong>
+      <p>Translate business requirements into clear product flows.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>02</h3>
+      <strong>Design</strong>
+      <p>Create maintainable architecture and thoughtful experiences.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>03</h3>
+      <strong>Build</strong>
+      <p>Develop reliable frontend, backend, and data integrations.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>04</h3>
+      <strong>Ship</strong>
+      <p>Test, optimize, deploy, and improve the real product.</p>
+    </td>
+  </tr>
+</table>
 
-### Menoufia University Portal
+---
 
-**Multilingual University Platform**
+## GitHub Pulse
 
-A responsive institutional portal featuring dynamic news, faculties, departments, sectors, special units, global search, configurable themes, and complete RTL/LTR support.
+<p align="center">
+  <img
+    width="700"
+    src="https://streak-stats.demolab.com?user=Karrim0&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
+    alt="Kareem's GitHub contribution streak"
+  />
+</p>
 
-`React` `Vite` `REST APIs` `i18next` `Axios` `Responsive UI`
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Karrim0/Karrim0/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Karrim0/Karrim0/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Kareem's contribution activity"
+      src="https://raw.githubusercontent.com/Karrim0/Karrim0/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
-<a href="https://menoufia-university.vercel.app/">
-  <img src="https://img.shields.io/badge/View%20Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Menoufia University Portal" />
-</a>
+---
 
-<br />
+<div align="center">
 
-### Fourmap
-
-**Arabic Business Website and Content Management System**
-
-A custom Arabic business platform developed for a Saudi client, including services, articles, consultation requests, contact handling, SEO controls, image management, and a custom administration dashboard.
-
-`PHP` `MySQL` `PDO` `JavaScript` `Bootstrap` `Admin Dashboard`
-
-<a href="https://kaghim.wuaze.com">
-  <img src="https://img.shields.io/badge/View%20Live%20Project-000000?style=for-the-badge" alt="Fourmap Live Project" />
-</a>
+## Let's Build Something Useful
 
 <p>
-  More projects and detailed case studies are available on my
-  <a href="https://kaghim.vercel.app/"><strong>portfolio</strong></a>.
+  Have a product idea, an existing platform that needs improvement,
+  or a challenging technical problem?
 </p>
 
----
-
-## Engineering Principles
-
-```text
-Clean architecture
-Reusable components
-Simple user experiences
-Reliable backend integrations
-Maintainable codebases
-Production-focused delivery
-```
-
----
-
-## Current Focus
-
-* Building scalable full-stack products with Next.js
-* Developing reliable APIs and database-driven systems
-* Improving e-commerce and dashboard user experiences
-* Creating offline-friendly and mobile-first applications
-* Strengthening system design, testing, and deployment workflows
-
----
-
-## GitHub Overview
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karrim0&theme=github_dark" alt="Kareem's GitHub Activity" />
+<p>
+  <a href="mailto:karimhnfy1@gmail.com">
+    <img src="https://img.shields.io/badge/Start_a_Conversation-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Kareem" />
+  </a>
+  <a href="https://kaghim.vercel.app/">
+    <img src="https://img.shields.io/badge/View_My_Work-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karrim0&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Karrim0&theme=github_dark&utcOffset=3" alt="Productive Time" />
-</p>
+<sub>
+  Built with curiosity, clean code, and an unreasonable attention to detail.
+</sub>
 
----
-
-<p align="center">
-  <strong>Building useful products with clean code and thoughtful user experiences.</strong>
-</p>
-
-<p align="center">
-  <a href="https://kaghim.vercel.app/">Portfolio</a>
-  ·
-  <a href="https://www.linkedin.com/in/karim74">LinkedIn</a>
-  ·
-  <a href="mailto:karimhnfy1@gmail.com">Email</a>
-</p>
+</div>
