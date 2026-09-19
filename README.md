@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi, I'm Karim Hanafy 👋
+# Karim Hanafy
 
 ### Frontend-Focused Full-Stack Developer
 
-Building modern, scalable web applications with React, Next.js, TypeScript, and Node.js.
+Building production-ready web applications with  
+**React • Next.js • TypeScript • Node.js**
 
 <p>
   <a href="https://kaghim.vercel.app/">
@@ -22,13 +23,19 @@ Building modern, scalable web applications with React, Next.js, TypeScript, and 
 
 ---
 
-## About
+## About Me
 
-I'm a Full-Stack Developer with a strong focus on frontend engineering and user experience.
+I'm a Full-Stack Developer focused on building polished frontend experiences and reliable backend systems.
 
-I enjoy building complete products—from responsive interfaces and reusable component systems to REST APIs, authentication, databases, admin dashboards, and deployment.
+I work across the full product lifecycle—from UI architecture and reusable component systems to APIs, authentication, databases, dashboards, and deployment.
 
-My goal is simple: build software that's clean, maintainable, and solves real problems.
+I care about:
+
+- Clean and maintainable code
+- Scalable frontend architecture
+- Strong user experience
+- Performance and accessibility
+- Building real products, not just demos
 
 ---
 
@@ -36,13 +43,17 @@ My goal is simple: build software that's clean, maintainable, and solves real pr
 
 <div align="center">
 
-### Core
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,postgres,prisma,supabase,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite"/>
 
-### Tools
+### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=php,mysql,vite,docker,git,github,figma,postman,vercel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,php,mysql"/>
+
+### Tools & Platform
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel"/>
 
 </div>
 
@@ -50,35 +61,64 @@ My goal is simple: build software that's clean, maintainable, and solves real pr
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Kidorly** | Multilingual Full-Stack E-Commerce Platform with admin dashboard, authentication, payments, shipping and CMS. | Next.js • Prisma • PostgreSQL |
-| **Menoufia University Portal** | Large multilingual university platform with dynamic content, search, RTL/LTR support and REST APIs. | React • TypeScript • Vite |
-| **Fourmap** | Business platform & CMS built for a Saudi client with SEO, articles, consultation requests and dashboard. | PHP • MySQL |
-| **Gym Crew** | Workout tracking platform with Supabase backend and mobile-first experience. | Next.js • Supabase |
+### Kidorly
 
-➡️ **Portfolio:** https://kaghim.vercel.app/
+**Multilingual Full-Stack E-Commerce Platform**
+
+Production-oriented e-commerce platform with authentication, admin dashboard, payments, shipping workflows and CMS functionality.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+---
+
+### Menoufia University Portal
+
+**Multilingual University Web Platform**
+
+Large content-driven university platform featuring dynamic pages, search, multilingual content, RTL/LTR layouts and REST API integration.
+
+`React` `TypeScript` `Vite` `REST API`
 
 ---
 
-## What I Work On
+### Fourmap
 
-- Responsive Web Applications
-- Full-Stack SaaS Products
-- Admin Dashboards
-- Authentication & Authorization
-- REST APIs
-- Database Design
-- Internationalization (i18n)
-- Performance Optimization
-- Clean Architecture
+**Business Platform & CMS**
+
+Commercial platform built for a Saudi client including SEO-focused pages, articles, consultation requests and content management.
+
+`PHP` `MySQL` `JavaScript`
 
 ---
+
+### Gym Crew
+
+**Workout Tracking Platform**
+
+Mobile-first fitness platform with workout tracking, authentication and cloud-based user data.
+
+`Next.js` `TypeScript` `Supabase`
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-### Thanks for visiting 👋
-
-Feel free to explore my repositories or reach out if you'd like to collaborate.
+<img
+  src="https://streak-stats.demolab.com?user=Karrim0&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
+
+---
+
+## Engineering Focus
+
+```text
+Frontend Engineering    ████████████████████
+Full-Stack Development  ██████████████████
+UI / UX Implementation  ██████████████████
+REST APIs               ███████████████
+Database Design         ██████████████
