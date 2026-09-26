@@ -1,124 +1,51 @@
-<div align="center">
-
 # Karim Hanafy
 
-### Frontend-Focused Full-Stack Developer
+**Full-Stack Web Developer** focused on building production web products with React, Next.js, TypeScript, and modern database-backed systems.
 
-Building production-ready web applications with  
-**React • Next.js • TypeScript • Node.js**
+I work across frontend engineering, APIs, authentication, databases, admin dashboards, multilingual RTL/LTR experiences, and production delivery.
 
-<p>
-  <a href="https://kaghim.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/karim74">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:karimhnfy1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## About Me
-
-I'm a Full-Stack Developer focused on building polished frontend experiences and reliable backend systems.
-
-I work across the full product lifecycle—from UI architecture and reusable component systems to APIs, authentication, databases, dashboards, and deployment.
-
-I care about:
-
-- Clean and maintainable code
-- Scalable frontend architecture
-- Strong user experience
-- Performance and accessibility
-- Building real products, not just demos
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite"/>
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,php,mysql"/>
-
-### Tools & Platform
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel"/>
-
-</div>
-
----
-
-## Featured Projects
+## Featured Work
 
 ### Kidorly
+Multilingual full-stack e-commerce platform with a responsive storefront, checkout and order workflows, PostgreSQL/Prisma data layer, and protected administration tools.
 
-**Multilingual Full-Stack E-Commerce Platform**
+**Next.js · TypeScript · Prisma · PostgreSQL · Tailwind CSS**
 
-Production-oriented e-commerce platform with authentication, admin dashboard, payments, shipping workflows and CMS functionality.
+### OVRLD
+Mobile-first training platform and installable PWA with authentication, workout and progress systems, offline storage and synchronization, and PostgreSQL-backed user data.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+**Next.js · React · TypeScript · Supabase · PostgreSQL · IndexedDB**
 
----
+### Nexus Workspace
+Full-stack SaaS-style collaboration workspace built around users, workspace membership, projects, tasks, authentication, and role-aware access.
+
+**Next.js · TypeScript · Prisma · PostgreSQL · Authentication · RBAC**
 
 ### Menoufia University Portal
+Large multilingual institutional frontend with API-driven content, dynamic routing, global search, responsive layouts, and complete RTL/LTR behavior.
 
-**Multilingual University Web Platform**
+**React · TypeScript · REST APIs · i18next · Vite**
 
-Large content-driven university platform featuring dynamic pages, search, multilingual content, RTL/LTR layouts and REST API integration.
+## Production Client Work
 
-`React` `TypeScript` `Vite` `REST API`
+### Nexus Capital Red Sea
+End-to-end real-estate platform with a custom administration system and production deployment.
 
----
+[Live Website](https://nexuscapitalredsea.com/)
 
-### Fourmap
+### FourMap
+End-to-end Saudi engineering company website with a custom CMS/admin dashboard and production deployment.
 
-**Business Platform & CMS**
+[Live Website](https://fourmap.66ghz.com/)
 
-Commercial platform built for a Saudi client including SEO-focused pages, articles, consultation requests and content management.
+## Core Stack
 
-`PHP` `MySQL` `JavaScript`
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
----
+**Backend & Data:** PostgreSQL, MySQL, Prisma, Supabase, PHP, REST APIs, Authentication & Authorization
 
-### Gym Crew
+**Delivery:** Git, GitHub, Vercel, production deployment, responsive QA
 
-**Workout Tracking Platform**
+## Connect
 
-Mobile-first fitness platform with workout tracking, authentication and cloud-based user data.
-
-`Next.js` `TypeScript` `Supabase`
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Karrim0&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## Engineering Focus
-
-```text
-Frontend Engineering    ████████████████████
-Full-Stack Development  ██████████████████
-UI / UX Implementation  ██████████████████
-REST APIs               ███████████████
-Database Design         ██████████████
+[Portfolio](https://kaghim.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/karim74)
