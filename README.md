@@ -51,11 +51,11 @@ I care about:
 
 ### Backend & Data
 
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase,php,mysql"/>
 
-### Tools & Delivery
+### Tools & Platform
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel"/>
 
 </div>
 
@@ -141,9 +141,9 @@ Large API-driven university frontend covering faculties, departments, sectors, u
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Responsive UI, i18n, RTL/LTR
 
-**Backend & Data:** REST APIs, PostgreSQL, MySQL, Prisma, Supabase, PHP, Authentication, Authorization, RLS
+**Backend & Data:** Node.js, REST APIs, PostgreSQL, MySQL, Prisma, Supabase, PHP, Authentication, Authorization, RLS
 
-**Tools & Delivery:** Git, GitHub, Postman, Vercel, Cloudinary, Chrome DevTools, Production Deployment
+**Tools & Delivery:** Git, GitHub, Docker, Postman, Vercel, Cloudinary, Chrome DevTools, Production Deployment
 
 ---
 
