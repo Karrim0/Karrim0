@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karim Hanafy
+# Kareem Hanafy
 
 ### Full-Stack Web Developer
 
