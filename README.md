@@ -1,3 +1,4 @@
+ 
 <div align="center">
 
 # Kareem Hanafy
@@ -63,17 +64,29 @@ I care about:
 
 ## Featured Projects
 
-### OVRLD
+### Nexus Capital Red Sea
 
-**Mobile-First Training & Progress PWA**
+**Real Estate Platform & Admin System**
 
-Full-stack fitness product built around workout execution, logging, training history, progress tracking, and offline-aware workflows.
+End-to-end production real-estate platform with searchable properties and projects, multilingual content, comparison workflows, and a complete administration system.
 
-Includes authentication, PostgreSQL-backed user data, PWA behavior, IndexedDB/offline storage, synchronization flows, multilingual support, and structured training logic.
+Built and delivered from initial implementation through production deployment.
 
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `IndexedDB`
+`React` `Laravel / PHP` `MySQL` `REST APIs`
 
-[Live Website](https://ovrld.vercel.app/)
+[Live Website](https://nexuscapitalredsea.com/)
+
+---
+
+### FourMap
+
+**Saudi Engineering Website & Custom CMS**
+
+End-to-end business platform built for a Saudi engineering company, including public company pages, services, articles, consultation workflows, SEO controls, and a complete custom administration dashboard.
+
+`PHP` `MySQL` `JavaScript` `Bootstrap`
+
+[Live Website](https://fourmap.66ghz.com/)
 
 ---
 
@@ -101,29 +114,17 @@ Built around custom authentication, sessions, PostgreSQL/Prisma data modeling, w
 
 ---
 
-### Nexus Capital Red Sea
+### OVRLD
 
-**Real Estate Platform & Admin System**
+**Mobile-First Training & Progress PWA**
 
-End-to-end production real-estate platform with searchable properties and projects, multilingual content, comparison workflows, and a complete administration system.
+Full-stack fitness product built around workout execution, logging, training history, progress tracking, and offline-aware workflows.
 
-Built and delivered from initial implementation through production deployment.
+Includes authentication, PostgreSQL-backed user data, PWA behavior, IndexedDB/offline storage, synchronization flows, multilingual support, and structured training logic.
 
-`React` `Laravel / PHP` `MySQL` `REST APIs`
+`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `IndexedDB`
 
-[Live Website](https://nexuscapitalredsea.com/)
-
----
-
-### FourMap
-
-**Saudi Engineering Website & Custom CMS**
-
-End-to-end business platform built for a Saudi engineering company, including public company pages, services, articles, consultation workflows, SEO controls, and a complete custom administration dashboard.
-
-`PHP` `MySQL` `JavaScript` `Bootstrap`
-
-[Live Website](https://fourmap.66ghz.com/)
+[Live Website](https://ovrld.vercel.app/)
 
 ---
 
